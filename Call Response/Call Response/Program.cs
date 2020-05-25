@@ -26,7 +26,7 @@ namespace Call_Response
                         TcpClient client = new TcpClient();
 
                         int port = 2069;
-                        IPAddress ip = IPAddress.Parse("172.16.241.96");
+                        IPAddress ip = IPAddress.Parse("127.0.0.1");
                         IPEndPoint endPoint = new IPEndPoint(ip, port);
 
                         client.Connect(endPoint);
@@ -62,7 +62,7 @@ namespace Call_Response
                     TcpClient client = new TcpClient();
 
                     int port = 2069;
-                    IPAddress ip = IPAddress.Parse("172.16.241.96");
+                    IPAddress ip = IPAddress.Parse("127.0.0.1");
                     IPEndPoint endPoint = new IPEndPoint(ip, port);
 
                     client.Connect(endPoint);
