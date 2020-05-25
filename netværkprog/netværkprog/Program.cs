@@ -15,13 +15,13 @@ namespace Netværk_Programmering
             text1 = Encoding.ASCII.GetString(bytes1);
 
             string text2 = "Hello World! ÆØÅ ÆØÅ LÆØÅ YE";
-            var bytes = Encoding.UTF8.GetBytes(text2);
+            byte[] bytes = Encoding.UTF8.GetBytes(text2);
 
-            Console.WriteLine(bytes);
+            Console.WriteLine("byte arrary: " + string.Join(" " , bytes));
 
             text2 = Encoding.UTF8.GetString(bytes);
 
-            Console.WriteLine(text2);
+            Console.WriteLine("string is: "+text2);
 
             
 
