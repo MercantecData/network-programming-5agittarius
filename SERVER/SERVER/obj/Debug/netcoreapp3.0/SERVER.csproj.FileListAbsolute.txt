@@ -1,0 +1,10 @@
+C:\Users\49880\Desktop\netværk programmering\SERVER\SERVER\bin\Debug\netcoreapp3.0\SERVER.exe
+C:\Users\49880\Desktop\netværk programmering\SERVER\SERVER\bin\Debug\netcoreapp3.0\SERVER.deps.json
+C:\Users\49880\Desktop\netværk programmering\SERVER\SERVER\bin\Debug\netcoreapp3.0\SERVER.runtimeconfig.json
+C:\Users\49880\Desktop\netværk programmering\SERVER\SERVER\bin\Debug\netcoreapp3.0\SERVER.runtimeconfig.dev.json
+C:\Users\49880\Desktop\netværk programmering\SERVER\SERVER\bin\Debug\netcoreapp3.0\SERVER.dll
+C:\Users\49880\Desktop\netværk programmering\SERVER\SERVER\bin\Debug\netcoreapp3.0\SERVER.pdb
+C:\Users\49880\Desktop\netværk programmering\SERVER\SERVER\obj\Debug\netcoreapp3.0\SERVER.AssemblyInfoInputs.cache
+C:\Users\49880\Desktop\netværk programmering\SERVER\SERVER\obj\Debug\netcoreapp3.0\SERVER.AssemblyInfo.cs
+C:\Users\49880\Desktop\netværk programmering\SERVER\SERVER\obj\Debug\netcoreapp3.0\SERVER.dll
+C:\Users\49880\Desktop\netværk programmering\SERVER\SERVER\obj\Debug\netcoreapp3.0\SERVER.pdb
