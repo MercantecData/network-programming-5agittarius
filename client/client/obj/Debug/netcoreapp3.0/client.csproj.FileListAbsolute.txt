@@ -1,0 +1,10 @@
+C:\Users\49880\Desktop\netværk programmering\client\client\bin\Debug\netcoreapp3.0\client.exe
+C:\Users\49880\Desktop\netværk programmering\client\client\bin\Debug\netcoreapp3.0\client.deps.json
+C:\Users\49880\Desktop\netværk programmering\client\client\bin\Debug\netcoreapp3.0\client.runtimeconfig.json
+C:\Users\49880\Desktop\netværk programmering\client\client\bin\Debug\netcoreapp3.0\client.runtimeconfig.dev.json
+C:\Users\49880\Desktop\netværk programmering\client\client\bin\Debug\netcoreapp3.0\client.dll
+C:\Users\49880\Desktop\netværk programmering\client\client\bin\Debug\netcoreapp3.0\client.pdb
+C:\Users\49880\Desktop\netværk programmering\client\client\obj\Debug\netcoreapp3.0\client.AssemblyInfoInputs.cache
+C:\Users\49880\Desktop\netværk programmering\client\client\obj\Debug\netcoreapp3.0\client.AssemblyInfo.cs
+C:\Users\49880\Desktop\netværk programmering\client\client\obj\Debug\netcoreapp3.0\client.dll
+C:\Users\49880\Desktop\netværk programmering\client\client\obj\Debug\netcoreapp3.0\client.pdb
